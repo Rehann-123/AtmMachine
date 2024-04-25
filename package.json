@@ -2,7 +2,8 @@
   "name": "atmmachine",
   "version": "1.0.0",
   "description": "This Is A JavaScript Made Atm Machine",
-  "main": "index.js",
+  "main": "atm.js",
+  "bin": "atm.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
